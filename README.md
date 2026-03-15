@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shirashoji)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirashoji&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shirashoji&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shirashoji&theme=transparent)
